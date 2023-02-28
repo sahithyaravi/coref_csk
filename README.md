@@ -12,13 +12,12 @@ Such inferences help identify lexically divergent co-referring pairs, such as _s
 ## Citation
 
 ```
-@misc{ravi-vlcbert,
-  title = {What happens before and after: Multi-Event Commonsense in Event Coreference Resolution},
-  author = {},
-  doi = {},
-  url = {},
-  publisher = {arXiv},
-  year = {}
+@article{Ravi2023WhatHB,
+  title={What happens before and after: Multi-Event Commonsense in Event Coreference Resolution},
+  author={Sahithya Ravi and Christy Tanner and Raymond Ng and Vered Shwarz},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2302.09715}
 }
 
 ```
@@ -171,4 +170,4 @@ Make sure to use the gold files of the same evaluation level (topic or corpus) a
 
 * Since knowledge addition works only with gold mentions (so far), the span scorer is not relevant, ignore the training method 'continue' and 'e2e'.
 
-* We will update the code and add more details in the near future.
+* We will update the code and add more details (data used as input to GPT3) in the near future.
