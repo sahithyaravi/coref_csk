@@ -12,12 +12,13 @@ Such inferences help identify lexically divergent co-referring pairs, such as _s
 ## Citation
 
 ```
-@article{Ravi2023WhatHB,
-  title={What happens before and after: Multi-Event Commonsense in Event Coreference Resolution},
-  author={Sahithya Ravi and Christy Tanner and Raymond Ng and Vered Shwarz},
-  journal={ArXiv},
-  year={2023},
-  volume={abs/2302.09715}
+@misc{ravi2023happens,
+      title={What happens before and after: Multi-Event Commonsense in Event Coreference Resolution}, 
+      author={Sahithya Ravi and Chris Tanner and Raymond Ng and Vered Shwartz},
+      year={2023},
+      eprint={2302.09715},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 
 ```
